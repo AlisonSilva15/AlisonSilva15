@@ -1,8 +1,7 @@
 <!-- Banner ou saudação -->
 <h1 align="center">👋 Olá, eu sou o Alison!</h1>
 
-<p align="center">
-💻 Apaixonado por tecnologia e pelo poder do código em transformar ideias em realidade.  
+<p align="center"> 
 🎯 Estudando para me tornar um <strong>desenvolvedor front-end</strong>, com foco em construir interfaces modernas e funcionais.
 </p>
 
@@ -61,6 +60,7 @@ Gosto de explorar novas ferramentas, entender o funcionamento das tecnologias e 
 <p align="center">
 ⭐ <em>"A jornada é tão importante quanto o destino. Cada projeto, cada erro e cada acerto fazem parte da minha evolução como desenvolvedor."</em>
 </p>
+
 
 
 

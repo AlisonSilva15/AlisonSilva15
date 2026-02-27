@@ -2,7 +2,7 @@
 <h1 align="center">👋 Olá, eu sou o Alison!</h1>
 
 <p align="center"> 
-🎯 Estudando para me tornar um <strong>desenvolvedor front-end</strong>, com foco em construir interfaces modernas e funcionais.
+🎯 Estudando para me tornar um <strong>desenvolvedor</strong>, com foco em construir interfaces modernas e funcionais.
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## 🚀 Sobre mim
 
 Sou uma pessoa curiosa e determinada, sempre em busca de aprender algo novo.  
-Atualmente estou estudando **HTML**, **CSS**, **JavaScript** e **React**, e me aprofundando cada vez mais no universo do desenvolvimento web.
+Atualmente estou estudando **HTML**, **CSS**, **JavaScript** e **PHP**, e me aprofundando cada vez mais no universo do desenvolvimento web.
 
 Gosto de explorar novas ferramentas, entender o funcionamento das tecnologias e transformar o que aprendo em projetos práticos e criativos.  
 
@@ -21,7 +21,7 @@ Gosto de explorar novas ferramentas, entender o funcionamento das tecnologias e 
 ## 🧠 Atualmente estudando
 - HTML5 e CSS3 — Estrutura e estilo das páginas  
 - JavaScript — Lógica, interatividade e boas práticas  
-- React — Desenvolvimento de interfaces dinâmicas e componentes reutilizáveis  
+- PHP — Funcionamento do backend 
 
 ---
 
@@ -30,7 +30,6 @@ Gosto de explorar novas ferramentas, entender o funcionamento das tecnologias e 
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff" />
 </p>
@@ -60,6 +59,7 @@ Gosto de explorar novas ferramentas, entender o funcionamento das tecnologias e 
 <p align="center">
 ⭐ <em>"A jornada é tão importante quanto o destino. Cada projeto, cada erro e cada acerto fazem parte da minha evolução como desenvolvedor."</em>
 </p>
+
 
 
 
